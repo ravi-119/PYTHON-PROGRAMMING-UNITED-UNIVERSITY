@@ -7,3 +7,10 @@ python programming language you can enhace your python programmig language skill
 ## class2.py => in this file you will learn about comments in python, variables in python, variable naming in python, about type function, Data types in python, Memory management in python, Objects, about print function etc.
 
 ## class3 repo => in this repo you will learn about import function, about module, keywords, all the types of Operator and input function.
+
+
+## Class4 repo => in this repo you will learn about Decision Control 
+if 
+if else 
+if elif else 
+single line if else 
