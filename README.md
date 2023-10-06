@@ -17,4 +17,4 @@ python programming language you can enhace your python programmig language skill
 
 
 
-## Class5 in this repo you will learn Loops in python like while loop and for loop and about break keyword and some program based on loop concepts in python.
+## Class5 in this repo => you will learn Loops in python like while loop and for loop and about break keyword and some program based on loop concepts in python.
