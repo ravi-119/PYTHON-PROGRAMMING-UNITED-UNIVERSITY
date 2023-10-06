@@ -14,3 +14,7 @@ python programming language you can enhace your python programmig language skill
 ## if else 
 ## if elif else 
 ## single line if else 
+
+
+
+## Class5 in this repo you will learn Loops in python like while loop and for loop and about break keyword and some program based on loop concepts in python.
